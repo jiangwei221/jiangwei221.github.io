@@ -12,7 +12,7 @@ Email: jiangwei1993@gmail.com
 | <img style="float: left;" src="./figs/linearized.png" height="100"> | **Linearized Multi-Sampling for Differentiable Image Transformation**<br />Wei Jiang, Weiwei Sun, Andrea Tagliasacchi, Eduard Trulls, Kwang Moo Yi<br />ICCV 2019<br />[[arXiv](https://arxiv.org/abs/1901.07124/)] |
 | <img style="float: left;" src="./figs/diffusion_curves.png" height="100"> | **Depth-aware image vectorization and editing**<br />Shufang Lu, Wei Jiang, Xuefeng Ding, Craig S. Kaplan, Xiaogang Jin, Fei Gao, Jiazhou Chen<br />Computer Graphics International 2019<br />[[Paper](https://link.springer.com/article/10.1007%2Fs00371-019-01671-0)] |
 
-### Experiences
+## Experiences
 
 |                                                         |
 | ------------------------------------------------------- |
