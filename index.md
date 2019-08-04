@@ -14,8 +14,5 @@ Email: jiangwei1993@gmail.com
 
 ## Experiences
 
-|                                                         |
-| ------------------------------------------------------- |
-| 2018.5 - 2018.8, Internship at KATVR, Hangzhou, China   |
-| 2017.5 - 2017.8, Internship at AdaptiveAlgo, Boston, MA |
-
+* 2018.5 - 2018.8, Internship at KATVR, Hangzhou, China
+* 2017.5 - 2017.8, Internship at AdaptiveAlgo, Boston, MA
