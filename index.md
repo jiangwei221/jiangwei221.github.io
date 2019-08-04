@@ -2,7 +2,8 @@
 
 I'm currently a Phd student in hyperparameter tuning under the supervision of Prof. Kwang Moo Yi at University of Victoria, Canada.
 
-Email: jiangwei1993@gmail.com
+* Email: jiangwei1993@gmail.com
+* Here is my [resume](./pdfs/jw_resume.pdf)
 
 ## Publications
 
