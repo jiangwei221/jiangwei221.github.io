@@ -1,6 +1,6 @@
 ## Wei Jiang
 
-I'm currently a Phd student in hyperparameter tuning under the supervision of Prof. Kwang Moo Yi at University of Victoria, Canada.
+I'm currently a Phd student in hyperparameter tuning under the supervision of Prof. Kwang Moo Yi at University of Victoria, Canada. I'm actively looking for research/software engineering internship opportunities.
 
 * Email: jiangwei1993@gmail.com
 * Here is my [resume](./pdfs/jw_resume.pdf)
@@ -15,5 +15,6 @@ I'm currently a Phd student in hyperparameter tuning under the supervision of Pr
 
 ## Experiences
 
+* 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
 * 2018.5 - 2018.8, Internship at KATVR, Hangzhou, China
 * 2017.5 - 2017.8, Internship at AdaptiveAlgo, Boston, MA
