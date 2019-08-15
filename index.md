@@ -13,8 +13,24 @@ I'm currently a Phd student in hyperparameter tuning under the supervision of Pr
 | <img style="float: left;" src="./figs/linearized.png" height="100"> | **Linearized Multi-Sampling for Differentiable Image Transformation**<br />Wei Jiang, Weiwei Sun, Andrea Tagliasacchi, Eduard Trulls, Kwang Moo Yi<br />ICCV 2019 oral<br />[[arXiv](https://arxiv.org/abs/1901.07124/)] |
 | <img style="float: left;" src="./figs/diffusion_curves.png" height="100"> | **Depth-aware image vectorization and editing**<br />Shufang Lu, Wei Jiang, Xuefeng Ding, Craig S. Kaplan, Xiaogang Jin, Fei Gao, Jiazhou Chen<br />Computer Graphics International 2019<br />[[Paper](https://link.springer.com/article/10.1007%2Fs00371-019-01671-0)] |
 
+## Awards
+
+* 2019.4, UVic Graduate Award
+
 ## Experiences
 
 * 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
 * 2018.5 - 2018.8, Internship at KATVR, Hangzhou, China
 * 2017.5 - 2017.8, Internship at AdaptiveAlgo, Boston, MA
+
+
+## Reviewing Activities:
+
+- Reviewer for **International Conference in Computer Vision 2019**
+- Reviewer for **British Machine Vision Conference 2019**
+- Reviewer for **The 4th Workshop on Geometry Meets Deep Learning**
+- Reviewer for **Image Matching: Local Features & Beyond**
+
+------
+
+- Sub reviewer for **International Conference on 3D Vision 2019**
