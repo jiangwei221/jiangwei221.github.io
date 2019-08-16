@@ -15,7 +15,7 @@ I'm currently a Phd student in hyperparameter tuning under the supervision of Pr
 
 ## Fellowships & Awards
 
-* 2019-2021 UVic Fellowship
+* 2019 - 2021 UVic Fellowship
 * 2019.4, UVic Graduate Award
 
 ## Experiences
