@@ -24,13 +24,8 @@ I'm currently a Phd student in hyperparameter tuning under the supervision of Pr
 * 2017.5 - 2017.8, Internship at AdaptiveAlgo, Boston, MA
 
 
-## Reviewing Activities:
+## Reviewing Activities
 
-- Reviewer for **International Conference in Computer Vision 2019**
-- Reviewer for **British Machine Vision Conference 2019**
-- Reviewer for **The 4th Workshop on Geometry Meets Deep Learning**
-- Reviewer for **Image Matching: Local Features & Beyond**
-
-------
-
-- Sub reviewer for **International Conference on 3D Vision 2019**
+- Reviewer for International Conference in Computer Vision 2019
+- Reviewer for British Machine Vision Conference 2019
+- Reviewer for The 4th Workshop on Geometry Meets Deep Learning
