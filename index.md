@@ -1,4 +1,4 @@
-## Wei Jiang
+## Wei Jiang (蒋炜)
 
 I'm currently a 2nd year Phd student in hyperparameter tuning under the supervision of Prof. Kwang Moo Yi at University of Victoria, Canada. I'm actively looking for research/software engineering internship opportunities.
 
