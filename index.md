@@ -29,4 +29,4 @@ I'm currently a 2nd year PhD student in hyper-parameter tuning under the supervi
 ## Reviewing Activities
 
 - 2019: ICCV, BMVC
-- 2020: AAAI
+- 2020: AAAI, CVPR
