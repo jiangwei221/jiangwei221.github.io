@@ -21,6 +21,7 @@ I'm currently a 2nd year Phd student in hyperparameter tuning under the supervis
 
 ## Experiences
 
+* 2020.1 - 2019.4, Teaching assistant of CSC 486B Introduction to Deep Learning for Computer Vision at University of Victoria, Victoria, Canada
 * 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
 * 2018.5 - 2018.8, Algorithm internship at KATVR, Hangzhou, China
 * 2017.5 - 2017.8, Backend internship at AdaptiveAlgo, Boston, MA
