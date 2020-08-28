@@ -21,7 +21,7 @@ I'm currently a 2nd year PhD student in hyper-parameter tuning under the supervi
 
 ## Experiences
 
-* 2020.5 - Present, Assistant engineer intern at Huawei, Canada
+* 2020.5 - 2020.9, Assistant engineer intern at Huawei, Canada
 * 2020.1 - 2020.4, Teaching assistant of CSC 486B Introduction to Deep Learning for Computer Vision at University of Victoria, Victoria, Canada
 * 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
 * 2018.5 - 2018.8, Algorithm intern at KATVR, Hangzhou, China
