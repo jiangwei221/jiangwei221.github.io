@@ -1,6 +1,6 @@
 ## Wei Jiang (蒋炜)
 
-I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervision of [Prof. Kwang Moo Yi](https://vision.uvic.ca/people/kmyi/) at University of Victoria, Canada.
+I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at University of British Columbia, Canada.
 
 * Email: jiangwei1993@gmail.com
 * Here is my [resume](./pdfs/jw_resume.pdf)
