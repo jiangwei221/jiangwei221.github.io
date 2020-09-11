@@ -4,6 +4,7 @@ I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervi
 
 * Email: jiangwei1993@gmail.com
 * Here is my [resume](./pdfs/jw_resume.pdf)
+* [my Google Scholar](https://scholar.google.com/citations?user=OsqGLUAAAAAJ&hl)
 
 ## Publications
 
