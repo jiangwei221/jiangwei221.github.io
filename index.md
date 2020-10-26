@@ -33,3 +33,4 @@ I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervi
 
 - 2019: ICCV, BMVC
 - 2020: AAAI, CVPR, IJCAI, ECCV, ACCV
+- 2021: WACV
