@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>COTR: Correspondence Transformer for Matching Across Images</title>
+</head>
+<style type="text/css">
+    body {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    div.container {
+        width: 800px;
+        margin: 0 auto;
+        text-align: justify;
+    }
+
+    .teaser_vid {
+        border: 2px solid gray;
+        width: 800px;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    #title {
+        font-family: Gill Sans, Verdana;
+        font-size: 11px;
+        line-height: 14px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: bold;
+        color: #444;
+    }
+
+    div.container p {
+        font-family: Times New Roman, times, times-roman, georgia, serif;
+        font-size: 16px;
+        line-height: 20px;
+        color: #444;
+    }
+
+    div.container h2 {
+        font-family: times, Times New Roman, times-roman, georgia, serif;
+        font-size: 28px;
+        line-height: 40px;
+        letter-spacing: -1px;
+        color: #444;
+    }
+
+    div.container h3 {
+        font-family: times, Times New Roman, times-roman, georgia, serif;
+        font-size: 18px;
+        line-height: 20px;
+        letter-spacing: -1px;
+        color: #444;
+    }
+</style>
+
+<body>
+
+    <div class="container">
+
+        <hr style="clear:both;" />
+        <H2 style="text-align: center;"> COTR: Correspondence Transformer for Matching Across Images </H2>
+        <div id="title" style="text-align: center;">Wei Jiang, Eduard Trulls, Jan Hosang</div>
+        <div id="title" style="text-align: center;">Andrea Tagliasacchi, Kwang Moo Yi</div>
+        <hr style="clear:both;" />
+
+        <div id="title">Demos:</div>
+        <p> 
+            <b>Plane Tracking</b>: We annotate the four corners of the paint manually for the first frame, and then find the corresponding four corners for the rest of the frames with COTR. We visualize the outcome by augmenting a virtual paint on top using homography warping.
+        </p>
+        <p>
+            <b>Two Views Reconstruction</b>: Given 2 images from calibrated camera, we triangulate a dense point cloud with the correspondences retrieved with COTR.
+        </p>
+        <p>
+            <b>Facial Landmarks Tracking</b>: We use an off-the-shelf detector to detect the facial landmarks for the first frame, and then find  them in the rest of the frames with COTR. Note that COTR is trained on static outdoor scenes only, and was never trained for deformable objects nor faces — it still works well.
+        </p>
+        <p>
+            <b>Correspondence Transformer on Transformers</b>: We annotate the grille of Optimus Prime for the first frame, and find them in the rest of the frames with COTR. As the appearances change drastically, we reset the reference points with previous frame when COTR filters out any uncertain correspondences. Again, note that COTR was never trained for these tasks, and yet works very well.
+        </p>
+    </div>
+    <video class="teaser_vid" controls>
+        <source src="teaser.mp4" type="video/mp4">
+        Your browser does not support HTML5 video. To see this video, please
+        open teaser.mp4 (see bellow for details on the codec
+        to use).
+    </video>
+
+    <div class="container">
+        <hr style="clear:both;" />
+        <p style="text-align:center;">
+            The supplementary videos are encoded by FFMPEG with h.264 codec. </br> If you can't play the video, please
+            download the VLC player at: <a
+                href="http://www.videolan.org/vlc/index.html">http://www.videolan.org/vlc/index.html</a>
+        </p>
+        <hr style="clear:both;" />
+    </div>
+
+</body>
+
+</html>
