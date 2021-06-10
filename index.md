@@ -24,6 +24,7 @@ I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervi
 
 ## Experiences
 
+* 2021.5 - Present, Research intern at Apple, Canada
 * 2020.5 - 2020.9, Assistant engineer intern at Huawei, Canada
 * 2020.1 - 2020.4, Teaching assistant of CSC 486B Introduction to Deep Learning for Computer Vision at University of Victoria, Victoria, Canada
 * 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
@@ -35,4 +36,4 @@ I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervi
 
 - 2019: ICCV, BMVC
 - 2020: AAAI, CVPR, IJCAI, ECCV, ACCV
-- 2021: WACV
+- 2021: WACV, ICCV
