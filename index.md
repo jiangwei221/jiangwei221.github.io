@@ -1,6 +1,7 @@
 ## Wei Jiang (蒋炜)
 
-I'm currently a 3rd year PhD student in hyper-parameter tuning under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada.
+I'm a 3rd year PhD student in hyper-parameter tuning under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada.
+Currently I'm interning at Apple with [Anurag Ranjan](https://anuragranj.github.io/). In 2020, I interned at Huawei with [Prof. Yang Wang](https://www.cs.umanitoba.ca/~ywang/).
 
 * Email: jiangwei1993@gmail.com
 * Here is my [resume](./pdfs/jw_resume.pdf)
