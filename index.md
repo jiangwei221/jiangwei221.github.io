@@ -6,6 +6,7 @@ Currently I'm interning at Apple with [Anurag Ranjan](https://anuragranj.github.
 * Email: jiangwei1993@gmail.com
 * Here is my [resume](./pdfs/jw_resume.pdf)
 * [my Google Scholar](https://scholar.google.com/citations?user=OsqGLUAAAAAJ&hl)
+* [my GitHub](https://github.com/jiangwei221)
 
 ## Publications
 
