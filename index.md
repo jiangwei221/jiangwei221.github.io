@@ -28,7 +28,7 @@ Currently I'm interning at Apple with [Anurag Ranjan](https://anuragranj.github.
 
 ## Experiences
 
-* 2021.5 - 2022.6, Research intern at Apple, Canada
+* 2021.5 - 2022.7, Research intern at Apple, Canada
 * 2020.5 - 2020.9, Assistant engineer intern at Huawei, Canada
 * 2020.1 - 2020.4, Teaching assistant of CSC 486B Introduction to Deep Learning for Computer Vision at University of Victoria, Victoria, Canada
 * 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
