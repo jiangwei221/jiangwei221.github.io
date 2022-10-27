@@ -43,3 +43,4 @@ I'm looking for jobs in the industry, and I'm expected to graduate in Octobor 20
 - 2019: ICCV, BMVC
 - 2020: AAAI, CVPR, IJCAI, ECCV, ACCV
 - 2021: WACV, ICCV
+- 2022: TIP, TPAMI
