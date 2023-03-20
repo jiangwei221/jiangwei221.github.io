@@ -1,12 +1,11 @@
 ## Wei Jiang (蒋炜)
 
-I'm a 5th year PhD candidate in computer vision under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada. My research focuses on visual localization and novel view synthesis.
+I'm a research scientist at [Haiper.ai](https://www.haiper.ai), where I work on computer vision research and development. I recently completed my PhD under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada. My research focuses on visual localization and novel view synthesis.
 From 2021 to 2022, I interned at Apple AI/ML with [Anurag Ranjan](https://anuragranj.github.io/). In 2020, I interned at Huawei with [Prof. Yang Wang](https://users.encs.concordia.ca/~wayang/).
 
-I will join [Haiper.ai](https://www.haiper.ai) starting Jan 2023.
+At [Haiper.ai](https://www.haiper.ai), we focus on 3D reconstruction and AI-generated content, and we're constantly exploring new applications and techniques.
 
 * Email: jiangwei1993@gmail.com
-* Here is my [resume](./pdfs/jw_resume.pdf)
 * [my Google Scholar](https://scholar.google.com/citations?user=OsqGLUAAAAAJ&hl)
 * [my GitHub](https://github.com/jiangwei221)
 
