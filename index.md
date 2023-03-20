@@ -29,6 +29,7 @@ At [Haiper.ai](https://www.haiper.ai), we focus on 3D reconstruction and AI-gene
 
 ## Experiences
 
+* 2023.1 - Present, Research scientist at Haiper.ai, Canada
 * 2021.5 - 2022.7, Research intern at Apple, Canada
 * 2020.5 - 2020.9, Assistant engineer intern at Huawei, Canada
 * 2020.1 - 2020.4, Teaching assistant of CSC 486B Introduction to Deep Learning for Computer Vision at University of Victoria, Victoria, Canada
