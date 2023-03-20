@@ -22,10 +22,6 @@ At [Haiper.ai](https://www.haiper.ai), we focus on 3D reconstruction and AI-gene
 | <img style="float: left;" src="./figs/linearized.png" height="100"> | **Linearized Multi-Sampling for Differentiable Image Transformation**<br /><ins>Wei Jiang</ins>, [Weiwei Sun](https://wsunid.github.io), [Andrea Tagliasacchi](https://taiya.github.io), [Eduard Trulls](https://etrulls.github.io), [Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/)<br />[ICCV 2019 oral](https://youtu.be/qUu1076IMWo?t=2299)<br />[[arXiv](https://arxiv.org/abs/1901.07124/)] [[code](https://github.com/vcg-uvic/linearized_multisampling_release)] [[poster](./pdfs/iccv_2019_poster.pdf)] |
 | <img style="float: left;" src="./figs/diffusion_curves.png" height="100"> | **Depth-aware image vectorization and editing**<br />[Shufang Lu](https://scholar.google.com/citations?user=fEN2q1sAAAAJ&hl=en), <ins>Wei Jiang</ins>, Xuefeng Ding, [Craig S. Kaplan](https://cs.uwaterloo.ca/~csk/), [Xiaogang Jin](http://www.cad.zju.edu.cn/home/jin/), Fei Gao, [Jiazhou Chen](http://www.cad.zju.edu.cn/home/chenjiazhou/)<br />The Visual Computer/Computer Graphics International 2019<br />[[Paper](https://link.springer.com/article/10.1007%2Fs00371-019-01671-0)] |
 
-## Fellowships & Awards
-
-* 2019 - 2021, UVic Fellowship
-* 2019.4, UVic Graduate Award
 
 ## Experiences
 
@@ -36,6 +32,12 @@ At [Haiper.ai](https://www.haiper.ai), we focus on 3D reconstruction and AI-gene
 * 2019.1 - 2019.4, Teaching assistant of CSC 305 Introduction to Computer Graphics at University of Victoria, Victoria, Canada
 * 2018.5 - 2018.8, Algorithm intern at KATVR, Hangzhou, China
 * 2017.5 - 2017.8, Backend intern at AdaptiveAlgo, Boston, MA
+
+
+## Fellowships & Awards
+
+* 2019 - 2021, UVic Fellowship
+* 2019.4, UVic Graduate Award
 
 
 ## Reviewing Activities
