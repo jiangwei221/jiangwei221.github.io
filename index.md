@@ -1,6 +1,6 @@
 ## Wei Jiang (蒋炜)
 
-I am a Machine Learning Engineer at Apple, working on machine learning and computer vision to enable Apple experiences. I received my PhD from the University of British Columbia, where I was advised by [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at the [Computer Vision Lab](https://vision.cs.ubc.ca/). My background spans computer vision, 3D vision, and generative AI, with particular interests in visual localization and novel view synthesis.
+I am a Machine Learning Engineer at [Apple](https://www.apple.com), working on machine learning and computer vision to enable Apple experiences. I received my PhD from the University of British Columbia, where I was advised by [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/). My background spans computer vision, 3D vision, and generative AI, with particular interests in visual localization and novel view synthesis.
 Previously, I was a Research Scientist at [Haiper.ai](https://www.haiper.ai), where I worked on 3D reconstruction and AI-generated content.
 
 * Email: jiangwei1993@gmail.com
