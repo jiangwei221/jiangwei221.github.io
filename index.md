@@ -1,9 +1,7 @@
 ## Wei Jiang (蒋炜)
 
-I'm a research scientist at [Haiper.ai](https://www.haiper.ai), where I work on computer vision research and development. I recently completed my PhD under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada. My research focuses on visual localization and novel view synthesis.
-From 2021 to 2022, I interned at Apple AI/ML with [Anurag Ranjan](https://anuragranj.github.io/). In 2020, I interned at Huawei with [Prof. Yang Wang](https://users.encs.concordia.ca/~wayang/).
-
-At [Haiper.ai](https://www.haiper.ai), we focus on 3D reconstruction and AI-generated content, and we're constantly exploring new applications and techniques.
+I'm a Machine Learning Engineer at Apple, where I have been working since June 2025. I recently completed my PhD under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada. My research focuses on visual localization, novel view synthesis, and machine learning for vision.
+Previously, I was a research scientist at [Haiper.ai](https://www.haiper.ai), where I worked on 3D reconstruction and AI-generated content. From 2021 to 2022, I interned at Apple AI/ML with [Anurag Ranjan](https://anuragranj.github.io/). In 2020, I interned at Huawei with [Prof. Yang Wang](https://users.encs.concordia.ca/~wayang/).
 
 * Email: jiangwei1993@gmail.com
 * [my Google Scholar](https://scholar.google.com/citations?user=OsqGLUAAAAAJ&hl)
@@ -25,6 +23,7 @@ At [Haiper.ai](https://www.haiper.ai), we focus on 3D reconstruction and AI-gene
 
 ## Experiences
 
+* 2025.6 - present, Machine Learning Engineer at Apple, USA
 * 2023.1 - 2025.1, Research scientist at Haiper.ai, Canada
 * 2021.5 - 2022.7, Research intern at Apple, Canada
 * 2020.5 - 2020.9, Assistant engineer intern at Huawei, Canada
