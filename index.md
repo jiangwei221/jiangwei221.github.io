@@ -1,7 +1,7 @@
 ## Wei Jiang (蒋炜)
 
-I'm a Machine Learning Engineer at Apple, where I have been working since June 2025. I recently completed my PhD under the supervision of [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at [Computer Vision Lab](https://vision.cs.ubc.ca/), University of British Columbia, Canada. My research focuses on visual localization, novel view synthesis, and machine learning for vision.
-Previously, I was a research scientist at [Haiper.ai](https://www.haiper.ai), where I worked on 3D reconstruction and AI-generated content. From 2021 to 2022, I interned at Apple AI/ML with [Anurag Ranjan](https://anuragranj.github.io/). In 2020, I interned at Huawei with [Prof. Yang Wang](https://users.encs.concordia.ca/~wayang/).
+I am a Machine Learning Engineer at Apple, where I have been working since June 2025. I received my PhD from the University of British Columbia, where I was advised by [Prof. Kwang Moo Yi](https://www.cs.ubc.ca/~kmyi/) at the [Computer Vision Lab](https://vision.cs.ubc.ca/). My work focuses on visual localization, novel view synthesis, and machine learning for computer vision.
+Before joining Apple, I was a Research Scientist at [Haiper.ai](https://www.haiper.ai), working on 3D reconstruction and AI-generated content. I also previously interned at Apple AI/ML with [Anurag Ranjan](https://anuragranj.github.io/) and at Huawei with [Prof. Yang Wang](https://users.encs.concordia.ca/~wayang/).
 
 * Email: jiangwei1993@gmail.com
 * [my Google Scholar](https://scholar.google.com/citations?user=OsqGLUAAAAAJ&hl)
